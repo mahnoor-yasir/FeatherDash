@@ -26,6 +26,15 @@ Click **“Play”** to restart and keep chasing your high score!
 
 ---
 
+##  Play Online
+
+You can play **Feather Dash** directly in your browser on Itch.io!  
+[**Play Online Now**](https://mahnoor-yasir.itch.io/feather-dash)
+
+
+---
+
+
 ##  Controls
 
 | Action | Key / Input |
